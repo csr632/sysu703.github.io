@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 项目愿景
 ---
 
 # 项目愿景
