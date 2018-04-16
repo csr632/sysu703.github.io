@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 团队信息
+title: Team profile（团队信息）
 ---
 
-# 2. Team profile（团队信息）
+
 ## 团队名称：SYSU703
 ## 项目：完成一个方便实用的聊天器
 ## 成员信息：
